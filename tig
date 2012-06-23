@@ -3,8 +3,7 @@
 # tig	Startup script for the Apache HTTP Server
 #
 # chkconfig: - 85 15
-# description: Apache is a World Wide Web server.  It is used to serve \
-#	       HTML files and CGI.
+# description: Twitter IRC Gateway is one of the clients for Twitter.
 # processname: tig
 # config: /etc/tig/conf/tig.conf
 # config: /etc/sysconfig/tig
